@@ -44,7 +44,9 @@ end
 
 endmodule
 # output
-![WhatsApp Image 2024-04-17 at 13 41 43_60396f3b](https://github.com/Akila56/4BIT_SYNCHRONOUS_UP_COUNTER/assets/165888553/4fc27120-d897-4771-927c-461b46d24f7d)
+
+![image](https://github.com/Akila56/4BIT_SYNCHRONOUS_UP_COUNTER/assets/164776026/0d599634-a173-458e-8050-b96c891442d7)
+
 # result
 Thus 4bit synchronous up counter is verified successfully 
 
