@@ -47,7 +47,8 @@ end
 
 endmodule
 # output
-![WhatsApp Image 2024-04-17 at 13 41 43_60396f3b](https://github.com/lathika024/4BIT_SYNCHRONOUS_UP_COUNTER/assets/165888553/4fc27120-d897-4771-927c-461b46d24f7d)
+![image](https://github.com/lathika024/4BIT_SYNCHRONOUS_UP_COUNTER/assets/164776026/356644d2-fbfc-4c73-ab98-4beb907d49d0)
+
 # result
 Thus 4bit synchronous up counter is verified successfully 
 
